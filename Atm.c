@@ -3,21 +3,11 @@
 // #include <conio.h>
 #include <stdlib.h>
 #include<string.h>
-//void mini_statement(float amount)
-//{
-    //printf("Your Account Balance is = %.3f",amount);
-//}
+
 void check_balance(float amount)
 {
-    //char ch;
     printf("Account Balance=%.3f\n",amount);
-    //fflush(stdin);
-   // printf("Do you want mini statement(y/Y)?");
-    //scanf("%c",&ch);
-    //if(ch=='y'||ch=='Y')
-    //{
-        //mini_statement(amount);
-    //}
+    
 }
 void deposit_money(float *amount)
 {
